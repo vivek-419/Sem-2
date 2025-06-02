@@ -1,0 +1,3 @@
+class Exc{
+    Exception
+}
